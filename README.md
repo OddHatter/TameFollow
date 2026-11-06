@@ -23,3 +23,7 @@ dotnet build -c Release -p:Deploy=true -p:Package=true
 ```
 
 Deploys to the r2modman profile (`BepInEx/plugins/Oddhatter-TameFollow`) and writes `dist/Oddhatter-TameFollow-<version>.zip`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
