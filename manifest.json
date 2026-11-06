@@ -1,0 +1,9 @@
+{
+  "name": "TameFollow",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Tell any tamed creature that can follow (lox, asksvin, boar, ...) to follow or stay with Use, like wolves. Client-side, works on servers.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360"
+  ]
+}
