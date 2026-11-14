@@ -4,3 +4,4 @@ dist/
 tasks/
 *.user
 .vs/
+TameFollow.local.props
